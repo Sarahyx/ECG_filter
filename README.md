@@ -6,4 +6,6 @@ I'd like to write a step by step introduction about how to build up a simple FIR
 
 ## What is ECG signals
 
-ECG is the abbreviation of electrocardiograph. 
+ECG is the abbreviation of electrocardiograph. For healthy person, their heart rate is about 60-100 beats per minutes. In addition, ECG has 4 peaks which are PQRST showing below.
+
+
