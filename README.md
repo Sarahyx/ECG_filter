@@ -41,3 +41,5 @@ block for normal ECG
 ### Remove wrong detections
 
 ## Link with database online
+
+Use an Einthoven II recording where the person is walking using this ECG database: https://pypi.org/project/ecg-gudb-database/.
