@@ -28,13 +28,13 @@ block for normal ECG
 
 ## Ring buffer
 
-## unit test
+## Unit test
 
 ## Remove 50Hz and DC interference
 
 ## Improvement
 
-## Heart rete detection
+## Heart rate detection
 
 ### Another way to reduce DC and other interference
 
